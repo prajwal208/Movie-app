@@ -18,7 +18,7 @@ function Series({movies,color}) {
                                 />
                             </div>
 
-                            <Link to="/" style={{color:"white",textDecoration:"none"}}>
+                            <Link to="/Movie-app" style={{color:"white",textDecoration:"none"}}>
                             <h3>Movies</h3>
                             </Link>
 

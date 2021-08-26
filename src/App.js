@@ -46,7 +46,7 @@ function App() {
    <Router>
     <Switch>
     
-    <Route exact path='/'>
+    <Route exact path='/Movie-app'>
     <Sidebar />
    <Home movies={movies} color={color} addtolike={addtolike} search={search}
                 setSearch={setSearch}/>
