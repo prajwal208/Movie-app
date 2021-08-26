@@ -1,0 +1,36 @@
+.side-container{
+    width: 300px;
+    height: 665px;
+    background-color: rgb(34, 33, 33);
+    color: white;
+    position: fixed;
+}
+
+h2{
+    text-transform: uppercase;
+    padding-left: 50px;
+    padding-top: 40px;
+}
+
+li{
+padding-top: 40px;
+padding-left: 35px;
+cursor: pointer;
+}
+
+span{
+    margin-left: 10px;
+}
+
+.sidebar:hover{
+height: 30px;
+border-left: 5px solid rgb(6, 184, 6);
+border-radius: 7px;
+border-width: 8px;
+transition: 0.3s;
+}
+
+.sidebar{
+    height: 35px;
+    padding-left: 10px;
+}
